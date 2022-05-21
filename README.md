@@ -1,4 +1,5 @@
 # Coding-Quiz
 
-Users can take this multiple choice quiz and answer 3 questions relating javascript.
-The quiz qill inform users what questions they got right and which ones were wrong
+This quiz features 7 questions and along with giving you a score at the end, marks all incorrect answers in red and all correct answers in green.
+The quiz is timed and users have 210 seconds in total to finish it.
+
